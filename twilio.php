@@ -3,8 +3,8 @@
   Plugin Name: Twilio Caller
   Description: Click-to-call converts your website's users into engaged customers by creating an easy way for your customers to contact your sales and support teams right on your website. Your users can input a phone number and receive a phone call connecting to any destination phone number you like.
   Version: 1.0.3
-  Author: IAPP Technologies
-  Author URI: http://iapptechnologies.com
+  Author: Harshdeep
+  Author URI: http://harshdeep.com
   License: GPLv2 or later
  */
 
